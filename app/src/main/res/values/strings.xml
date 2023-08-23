@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicketManagementSystem</string>
+    <string name="page_title">Ticket Management System</string>
+    <string name="select">Select Ticket Category</string>
+    <string name="favorite" />
+    <string name="content_description_favorite" />
+    <string name="search" />
+    <string name="content_description_search" />
+    <string name="more" />
+    <string name="content_description_more" />
+</resources>
